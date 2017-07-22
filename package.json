@@ -1,6 +1,6 @@
 {
   "name": "csvtojsontree",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Parses a csv file representing hierarchical data into a json object.",
   "main": "index.js",
   "scripts": {
