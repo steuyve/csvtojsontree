@@ -9,7 +9,7 @@ this:
 
 | Sample	| Input		| Table		|	|
 | ------------- | ------------- | ------------- | ----- |
-| File 		|	 	|		|	|
+| File:		|	 	|		|	|
 | Root 		| name 	 	|		|	|
 | Children	| 	 	|		|	|
 | 		|	 	|		|	|
