@@ -103,8 +103,8 @@ npm install --save csvtojsontree
 ```javascript
 const csvtojsontree = require('csvtojsontree');
 csvtojsontree.parse(path_to_csv_file)
-.then(tree => do stuff with tree)
-.catch(error => handle error);
+.then(tree => do_stuff_with_tree)
+.catch(error => handle_error);
 ```
 
 ## Contact
