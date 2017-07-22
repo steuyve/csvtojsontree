@@ -5,6 +5,8 @@ Little utility that converts a csv file representing hierarchical data into a ne
 
 Takes hierarchical data from a spreadsheet that is exported as a csv file like this:
 
+| Sample	| Input		| Table		|	|
+| ------------- | ------------- | ------------- | ----- |
 | File 		|	 	|		|	|
 | Root 		| name 	 	|		|	|
 | Children	| 	 	|		|	|
