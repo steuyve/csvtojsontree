@@ -94,6 +94,19 @@ And creates a nested JSON object out of it:
 }
 ```
 
+## Installation
+```
+npm install --save csvtojsontree
+```
+
+## Usage
+```javascript
+const csvtojsontree = require('csvtojsontree');
+csvtojsontree.parse(path_to_csv_file)
+.then(tree => do stuff with tree)
+.catch(error => handle error);
+```
+
 ## Contact
 Author: Stephen Liu (stliu.webservices@gmail.com).
 
