@@ -1,9 +1,11 @@
 # csvtojsontree
 
 ## Description
-Little utility that converts a csv file representing hierarchical data into a nested json object.
+Little utility that converts a csv file representing hierarchical data into a
+nested json object.
 
-Takes hierarchical data from a spreadsheet that is exported as a csv file like this:
+Takes hierarchical data from a spreadsheet that is exported as a csv file like
+this:
 
 | Sample	| Input		| Table		|	|
 | ------------- | ------------- | ------------- | ----- |
@@ -22,6 +24,7 @@ Takes hierarchical data from a spreadsheet that is exported as a csv file like t
 |		|	 	|		|	|
 |		| Child2	| name		|	|
 |		| Children	|		|	|
+|		| 		|		|	|
 |		| 		| Child2.1	| name	|
 |		| 		|		|	|
 |		| 		| Child2.2	| name	|
