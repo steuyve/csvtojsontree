@@ -15,7 +15,7 @@
     "json",
     "tree"
   ],
-  "author": "Stephen Liu",
+  "author": "Stephen Liu <stliu.webservices@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ssyl55/csvtojsontree/issues"
